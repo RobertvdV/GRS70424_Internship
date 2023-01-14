@@ -1,2 +1,1 @@
-from similarities import jaccard_similarity
-from similarities import similarity
+print('aaaaa')
