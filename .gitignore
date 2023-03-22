@@ -95,3 +95,6 @@ target/
 # Saved Weights
 saved_weights/
 *.pt
+
+# HTML Figures
+*.html
