@@ -97,4 +97,5 @@ saved_weights/
 *.pt
 
 # HTML Figures
+/reports/figures/
 *.html
